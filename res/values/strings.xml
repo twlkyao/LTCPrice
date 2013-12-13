@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LTCPrice</string>
+    <string name="action_settings">设置</string>
+    <string name="exit_settings">退出</string>
+    <string name="about">关于</string>
+    <string name="about_info">作者：齐士垚\nEmail：qishiyao2008@126.com\nQQ：1057126256\n西安电子科技大学\n使用说明：\n默认更新时间为5s，可通过设置更新。</string>
+    <string name="update_interval">更新间隔（秒）：</string>
+    <string name="submit">确定</string>
+    <string name="trade_price">成交价：</string>
+    <string name="buy_price">买一价：</string>
+    <string name="sell_price">卖一价：</string>
+    <string name="highest_price">最高价：</string>
+    <string name="lowest_price">最低价：</string>
+    <string name="volume">成交量：</string>
+    <string name="fail">更新失败！</string>
+
+</resources>
